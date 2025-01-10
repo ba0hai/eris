@@ -1,5 +1,15 @@
-This is your new *vault*.
+This is the landing page for the wiki dedicated to the "Eris" campaign (working name). 
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+## General 
 
-When you're ready, delete this note and make the vault your own.
+- [[Geography]]
+- [[Timeline]]
+
+## Character Creation 
+- [[Species]]
+
+## Factions 
+- [[Main]]
+- [[Military]]
+- [[Ministry]]
+- [[religion]]
