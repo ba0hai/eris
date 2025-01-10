@@ -1,0 +1,1 @@
+Will need to figure out what kind of unique ability system would be implemented for synthetics. 
